@@ -1,0 +1,15 @@
+.navbar{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    color: white;
+    font-weight: 600;
+    width: 95%;
+}
+#nav-item-head{
+    margin-left: auto;
+}
+.nav-item{
+    margin-left: 1.5rem;
+}

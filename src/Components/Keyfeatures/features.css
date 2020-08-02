@@ -1,0 +1,10 @@
+#player-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.feature-text{
+    font-size: 1.25rem;
+    font-weight: 500;
+}
