@@ -4,6 +4,7 @@
     height: 25rem;
     background-size: cover;
     background-position-y: -10rem;
+    background-repeat: no-repeat;
 }
 .footer-text{
     margin:0.25rem;
